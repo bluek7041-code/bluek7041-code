@@ -36,8 +36,8 @@ I am a Computer Science undergraduate with a profound interest in low-level arch
 ### 📊 System Analytics
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ThoCodeGoMo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThoCodeGoMo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bluek7041-code&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluek7041-code&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </p>
 
 <!-- 
