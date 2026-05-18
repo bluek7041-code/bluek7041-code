@@ -1,5 +1,5 @@
 ## Hi there 👋
-< img src = "./assets/1d6b79ab6618bbeca32a66136368d650.jpg" >
+< img src = "./assets/1d6b79ab6618bbeca32a66136368d650.jpg" />
 <!--
 **bluek7041-code/bluek7041-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
