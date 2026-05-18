@@ -1,46 +1,47 @@
-## Hi there 👋
-<img src="./assets/1d6b79ab6618bbeca32a66136368d650.jpg"/>
-# 👨‍💻 System & Software Engineering
+# 🚀 Staff Software Engineer & Systems Architect
 
-I am a Computer Science undergraduate with a profound interest in low-level architecture, systems programming, and software automation. My focus lies in understanding the complete computational stack—from hardware logic gates and assembly registers to high-level application development.
+*Architecting distributed systems at scale. Polyglot Developer. Open-source Maintainer.*
 
----
-
-### 🔬 Technical Arsenal
-
-**Languages & Low-Level**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MIPS Assembly](https://img.shields.io/badge/MIPS_Assembly-333333?style=for-the-badge&logo=assembly&logoColor=white)
-
-**Frameworks, Libraries & Tools**
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Core Competencies**
-`Data Structures & Algorithms` | `Object-Oriented Design` | `Computer Architecture` | `Quality Assurance (Testing)`
+I specialize in designing high-throughput, low-latency infrastructure and leading engineering teams at top-tier global tech companies. My core philosophy is building robust architectures that scale effortlessly while maintaining high developer velocity.
 
 ---
 
-### 🚀 Current Endeavors
+### 🏢 Professional Impact & Leadership
 
-- ⚙️ **Systems & Hardware:** Deep diving into 8-bit computer architecture, breadboard logic, and register-level operations.
-- 🎮 **Engine Development:** Developing a 2D platformer game engine utilizing **C++** and the **SFML** library.
-- 🧪 **Software Testing:** Applying quality assurance methodologies in real-world software testing environments.
-- 🧠 **Algorithmic Problem Solving:** Preparing for competitive programming and ICPC challenges.
+- **Senior Software Engineer @ [Top Global Tech Company 1]**
+  - Architected and led the migration of legacy monoliths to a distributed microservices ecosystem, handling **50M+ DAU** with 99.99% uptime.
+  - Optimized core routing algorithms, reducing cross-region network latency (p99) by 45%.
+- **Systems Engineer @ [Top Global Tech Company 2]**
+  - Designed a globally distributed caching mechanism processing over **10 million requests per second**.
 
 ---
 
-### 📊 System Analytics
+### 🛠 Core Competencies & Technical Mastery
+
+*I believe in picking the right tool for the job. Languages are merely syntax; system design and algorithmic efficiency are the true foundations.*
+
+- **Systems & High-Performance:** `C++` | `Rust` | `Go` *(System-level design, memory management, multithreading)*
+- **Backend & Data Engineering:** `Python` | `Java` | `Scala` | `Node.js`
+- **Cloud & Infrastructure:** `Kubernetes` | `Docker` | `AWS` | `GCP` | `Terraform` | `Apache Kafka`
+- **Architecture Paradigms:** `Distributed Systems` | `Event-Driven Architecture` | `Fault Tolerance`
+
+---
+
+### 🌐 Open Source & Contributions
+
+- 📖 **Maintainer** for high-performance open-source libraries used by thousands of developers worldwide.
+- 🎤 **Speaker** at tech conferences on topics involving Distributed Tracing and Scaling Microservices.
+- 📝 Authored extensive RFCs and technical design documents that shaped core infrastructure components.
+
+---
+
+### 📈 Open Source Footprint
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bluek7041-code&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluek7041-code&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
 </p>
 
 <!-- 
-💡 How to contact me: 
-Uncomment and add your professional email or LinkedIn below if desired.
+📫 Let's connect: 
+[LinkedIn](https://linkedin.com/in/your-profile) | [Personal Blog](https://your-blog.com)
 -->
